@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AntFoodGame.vcxproj" Id="56d2270a-8f79-4149-9058-4393f4ccdca8" />
+</Solution>
